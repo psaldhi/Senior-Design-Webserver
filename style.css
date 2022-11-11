@@ -1,0 +1,25 @@
+.container{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.img-map{
+    width: 1000px;
+    height: 600px;
+}
+.ps3{
+    position: absolute;
+    top: 330px;
+    left: 765px;
+    font-weight: bold;
+    font-size: large;
+}
+#button{
+    display: block;
+    bottom: 50x;
+    top: 360px;
+    left: 620px;
+    padding:7px 13px;
+    text-align:center;
+    position: absolute;
+}
